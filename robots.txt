@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iehahphae.scholastic.ai/sitemap.xml
